@@ -1,16 +1,11 @@
-# instagram_clone
+# Instagram Clone
+## A new Flutter project for Instagram UI Clone.
+<p align="left">
+  <img src="https://github.com/decodevM/instagram_clone/blob/master/assets/screenshots/1.png" width="200" title="Home Story">
+  <img src="https://github.com/decodevM/instagram_clone/blob/master/assets/screenshots/2.png" width="200" title="Home Post Multiple">
+  <img src="https://github.com/decodevM/instagram_clone/blob/master/assets/screenshots/3.png" width="200" title="Home Post Single">
+</p>
 
-A new Flutter project.
+## Tutorial Part 1
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Instagram Clone](https://img.youtube.com/vi/THyEXq9ktXE/0.jpg)](https://www.youtube.com/watch?v=THyEXq9ktXE)
